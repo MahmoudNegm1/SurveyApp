@@ -38,5 +38,6 @@ namespace VisitorsSurvey.Controllers
             var result = _appService.GetList();
             return Json(result);
         }
+
     }
 }
