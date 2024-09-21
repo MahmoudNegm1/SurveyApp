@@ -1,0 +1,14 @@
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\bin\Debug\net8.0\VisitorsSurvey.DLL.deps.json
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\bin\Debug\net8.0\VisitorsSurvey.DLL.runtimeconfig.json
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\bin\Debug\net8.0\VisitorsSurvey.DLL.dll
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\bin\Debug\net8.0\VisitorsSurvey.DLL.pdb
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\VisitorsSurvey.DLL.csproj.AssemblyReference.cache
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\VisitorsSurvey.DLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\VisitorsSurvey.DLL.AssemblyInfoInputs.cache
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\VisitorsSurvey.DLL.AssemblyInfo.cs
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\VisitorsSurvey.DLL.csproj.CoreCompileInputs.cache
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\VisitorsSurvey.DLL.dll
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\refint\VisitorsSurvey.DLL.dll
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\VisitorsSurvey.DLL.pdb
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\VisitorsSurvey.DLL.genruntimeconfig.cache
+F:\projects\VisitorsSurvey\VisitorsSurvey.DLL\obj\Debug\net8.0\ref\VisitorsSurvey.DLL.dll

@@ -1,0 +1,15 @@
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\bin\Debug\net8.0\VisitorsSurvey.BLL.deps.json
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\bin\Debug\net8.0\VisitorsSurvey.BLL.dll
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\bin\Debug\net8.0\VisitorsSurvey.BLL.pdb
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\bin\Debug\net8.0\VisitorsSurvey.DLL.dll
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\bin\Debug\net8.0\VisitorsSurvey.DLL.pdb
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\VisitorsSurvey.BLL.csproj.AssemblyReference.cache
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\VisitorsSurvey.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\VisitorsSurvey.BLL.AssemblyInfoInputs.cache
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\VisitorsSurvey.BLL.AssemblyInfo.cs
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\VisitorsSurvey.BLL.csproj.CoreCompileInputs.cache
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\Visitors.43912E4E.Up2Date
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\VisitorsSurvey.BLL.dll
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\refint\VisitorsSurvey.BLL.dll
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\VisitorsSurvey.BLL.pdb
+F:\projects\VisitorsSurvey\VisitorsSurvey.BLL\obj\Debug\net8.0\ref\VisitorsSurvey.BLL.dll

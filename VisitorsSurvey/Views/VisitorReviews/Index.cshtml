@@ -1,0 +1,89 @@
+﻿@model IEnumerable<VisitorsSurvey.DLL.Entities.VisitorReviewDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VisitorReviewCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WeekDayName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DayOfMonth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Month)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegionCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GovernateCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CityCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ParkCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Year)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VisitorReviewCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WeekDayName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DayOfMonth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Month)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegionCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GovernateCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ParkCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
