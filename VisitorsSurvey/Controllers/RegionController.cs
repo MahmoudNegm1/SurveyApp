@@ -13,6 +13,7 @@ namespace VisitorsSurvey.Controllers
         public RegionController(ILogger<HomeController> logger, IRegionAppService appService)
         {
             _logger = logger;
+
             this._appService = appService;
         }
 
